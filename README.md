@@ -216,7 +216,9 @@ This platform helps governments:
 * Strengthen **public trust in governance**
 
 ---
-
+## 🤝 Collaborators
+## VINOTH S • RISHIKESAVAN K • SARAN KUMAR T • BALAMITHRA D
+---
 # 📜 License
 
 This project is released under the **MIT License**.
